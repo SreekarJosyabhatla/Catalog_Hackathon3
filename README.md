@@ -22,24 +22,24 @@ This is a simple command-line interface (CLI) based Online Auction System built 
 ├── auction.py # Functions related to auction creation, viewing, and bidding
 └── user.py # Functions related to user registration and login
 ```
-###1)Register:
+### 1)Register:
   -Run the program and select the "Register" option to create a new user account.
   -You can register as an auctioneer if you want to create auctions.
-###2)Login:
+### 2)Login:
   -After registering, log in to access the system.
   -Create Auction (Auctioneers only):
   -After logging in as an auctioneer, choose the "Create Auction" option.
   -Provide the item name, description, starting bid, and end time.
 
-###3)Place Bid:
+### 3)Place Bid:
   -After logging in, choose the "Place Bid" option.
   -Enter the auction ID and the amount you wish to bid.
 
-###4)View Auctions:
+### 4)View Auctions:
   -Choose the "View Auctions" option to see a list of all ongoing auctions.
 
-###5)View Bids:
+### 5)View Bids:
   -To see all bids for a specific auction, choose the "View Bids" option and enter the auction ID.
 
-###6)Exit:
+### 6)Exit:
   -Choose the "Exit" option to quit the application.
